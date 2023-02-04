@@ -26,6 +26,7 @@ public class GitTest {
         System.out.println("push gitee test");
 
         System.out.println("我是GitHub");
+        System.out.println("我也是GitHub");
 
     }
 }
