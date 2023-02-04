@@ -23,6 +23,8 @@ public class GitTest {
         System.out.println("21:04");
         System.out.println("21:32");
         System.out.println("pull gitee test");
+        System.out.println("push gitee test");
+
 
     }
 }
