@@ -21,6 +21,7 @@ public class GitTest {
         System.out.println("pull test2");
 
         System.out.println("21:04");
+        System.out.println("21:32");
 
 
     }
